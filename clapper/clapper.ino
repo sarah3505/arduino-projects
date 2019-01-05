@@ -20,7 +20,7 @@ void loop() {
      digitalWrite (switchPin, HIGH); 
     }
     on = !on;
-    delay (1000);
+    delay (1001);
       
   } 
 }
